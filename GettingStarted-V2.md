@@ -30,7 +30,7 @@
    ![](images/vm-restart.png)
 
 ## Environemnt Setup and Overview
-Your **odl_user** is provided with the *Microsoft Office365 E3* license and *Power Automate per user with attended RPA plan* license.
+Your **odl_user** is provided with the *Office 365 E3* license and *Power Automate per user with attended RPA plan* license.
 
 ### Create a trial environment with database
 
@@ -73,7 +73,7 @@ Your **odl_user** is provided with the *Microsoft Office365 E3* license and *Pow
 
    ![](images/power-automate-signin.png)
 
-1. In the search bar search for **on-premises data gateway** and provide the username from Environment details tab and click on **Sign in**. Provide the credentials from Environment details tab if required.
+1. In the search bar of the VM desktop, search for **on-premises data gateway** and provide the username from Environment details tab and click on **Sign in**. Provide the credentials from Environment details tab if required.
 
    ![](images/data-gateway-signin.png)
 
