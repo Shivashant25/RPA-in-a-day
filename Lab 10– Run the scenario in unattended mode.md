@@ -148,7 +148,7 @@
    
 1. The flow will be running unattended on the VM that you have logged off. You can monitor the flow run from the portal run history. It should run successfully.
 
-> **Tip** : If the installation location paths (e.g. C:\Program Files (x86)\Contoso, Inc\Contoso Invoicing\LegacyInvoicingApp.exe) are different for the Contoso app on the machine at recording time vs the VM used for playback time, you will have to either modify the path manually from the portal script steps, or uninstall/reinstall the Contoso app on the VM to the same path, or simply delete the script and re-record the Desktop flow on the VM again to pick up the correct path.
+   > **Tip** : If the installation location paths (e.g. C:\Program Files (x86)\Contoso, Inc\Contoso Invoicing\LegacyInvoicingApp.exe) are different for the Contoso app on the machine at recording time vs the VM used for playback time, you will have to either modify the path manually from the portal script steps, or uninstall/reinstall the Contoso app on the VM to the same path, or simply delete the script and re-record the Desktop flow on the VM again to pick up the correct path.
 
 1. You can log back into the VM and write down the Contoso app newest invoice ID.
    
